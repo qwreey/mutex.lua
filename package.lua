@@ -1,7 +1,7 @@
 return {
 	name = 'qwreey75/mutex',
 	version = '1.0.3',
-	homepage = 'https://github.com/qwreey75/mutex.lua',
+	homepage = 'https://github.com/qwreey/mutex.lua',
 	dependencies = {
 	},
 	tags = {'coroutine','blocking','async','mutex'},
